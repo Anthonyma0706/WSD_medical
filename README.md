@@ -3,7 +3,7 @@ This is a Word Sense Disambiguation Project dedicated to medical abbreviations.
 ![alt text](https://raw.githubusercontent.com/BruceWen120/medal/012c5407168072ac73e3d2022fe2cea38029a6fa/figures/rs_illustration.svg)
 
 ## Models
-We use BERT and Lesk Algorithm. BERT achieved the test accuracy of 87% in test_final.csv, outperforming the previous state-of-the-art methods mentioned in [MeDAL Paper](https://www.aclweb.org/anthology/2020.clinicalnlp-1.15)
+We use BERT and Lesk Algorithm. BERT achieved the test accuracy of 87% in test_final.csv, outperforming the previous state-of-the-art methods mentioned in [MeDAL Paper](https://www.aclweb.org/anthology/2020.clinicalnlp-1.15).
 
 ## Dataset
 The dataset used in this project is originally from [MeDAL](https://github.com/BruceWen120/medal). 
