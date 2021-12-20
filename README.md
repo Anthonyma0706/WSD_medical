@@ -1,5 +1,5 @@
 # WSD_medical
-This is a Word Sense Disambiguation Project dedicated to medical abbreviations.
+This is a Word Sense Disambiguation Project dedicated to Medical abbreviations.
 ![alt text](https://raw.githubusercontent.com/BruceWen120/medal/012c5407168072ac73e3d2022fe2cea38029a6fa/figures/rs_illustration.svg)
 
 ## Models
